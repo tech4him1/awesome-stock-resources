@@ -217,7 +217,7 @@ A collection for icon font resources, most of which also include SVGs, which can
 * [Batch Icons](http://adamwhitcroft.com/batch/) - [:copyright:](https://github.com/AdamWhitcroft/Batch/blob/master/License.txt) Icon set of 300+ icons, which is part of [inuit.css](https://github.com/csswizardry/inuit.css).
 * [Devicons](http://vorillaz.github.io/devicons/#/main) - [:copyright:](https://choosealicense.com/licenses/mit/) Meet Devicons, an iconic font made for developers, code jedis, ninjas, HTTPsters, evangelists and nerds(sic). 100+ icons ready to use in your next project.   
 * [Iconfinder](https://www.iconfinder.com/) - Iconfinder provides beautiful icons to millions of designers and developers. Most icons are available under attribution. See individual licenses for more details.
-* [Font Awesome](http://fontawesome.io/) - [:copyright:](http://choosealicense.com/licenses/mit/) MIT licensed icon font.
+* [Font Awesome](http://fontawesome.io/) - [:copyright:](https://choosealicense.com/licenses/mit/) MIT licensed icon font.
 * [Fontello](http://fontello.com/) - [:copyright:](https://github.com/fontello/fontello/wiki/What-about-license%3F) - Fontello is a tool to quickly pack vector images into webfonts. Also includes a section of stock icons.
 * [Foundation Icon Fonts 3](http://zurb.com/playground/foundation-icon-fonts-3) - [:copyright:](http://choosealicense.com/licenses/mit/) An icon font from Zurb, the people behind the Foundation framework.
 * [GLYPHICONS](http://glyphicons.com/) - [:copyright:](https://creativecommons.org/licenses/by/3.0/) The free set is released under Creative Commons Attribution 3.0 Unported (CC BY 3.0) license and require attribution.
@@ -238,7 +238,7 @@ A collection for icon font resources, most of which also include SVGs, which can
 
 A collection for SVG icon resources which can be used in your interface and website designs.
 
-* [Entypo](http://www.entypo.com/) - [:copyright:](http://creativecommons.org/licenses/by-sa/3.0/) Carefully crafted iconset by [Daniel Bruce](http://www.danielbruce.se/).
+* [Entypo](http://www.entypo.com/) - [:copyright:](https://creativecommons.org/licenses/by-sa/3.0/) Carefully crafted iconset by [Daniel Bruce](http://www.danielbruce.se/).
 * [Geomicons Icons](http://geomicons.com/) - [:copyright:](http://choosealicense.com/licenses/mit/) Most basic icon set.
 * [Iconmonstr](https://iconmonstr.com/) - [:copyright:](https://iconmonstr.com/license/) A huge selection of icons in SVG and PNG format.
 * [Maps Icon](https://github.com/djaiss/mapsicon) - [:copyright:](https://github.com/djaiss/mapsicon#license) Mapsicon is a free collection of maps for nearly every country in the world, available in 11 different sizes, ranging from 16x16 pixels to 1024x1024 pixels, as well as .svg format.
@@ -279,7 +279,7 @@ A liberal mixture of content aggregated from other free resources and made avail
 Various different websites offering free HTML templates and themes.
 
 * [Bootswatch](https://bootswatch.com/) - [:copyright:](https://github.com/thomaspark/bootswatch/blob/gh-pages/LICENSE) Free themes for Bootstrap.
-* [HTML5 Up](https://html5up.net/) - [:copyright:](http://creativecommons.org/licenses/by/3.0/) HTML5 UP makes spiffy HTML5 site templates.
+* [HTML5 Up](https://html5up.net/) - [:copyright:](https://creativecommons.org/licenses/by/3.0/) HTML5 UP makes spiffy HTML5 site templates.
 * [Templated](https://templated.co/) - [:copyright:](https://templated.co/license) A collection of 850 free CSS and HTML5 site templates, designed & built by Cherry + AJ and released under the Creative Commons.
 * [Themezy](https://www.themezy.com/) - [:copyright:](https://www.themezy.com/terms) Free WordPress themes and website templates.
 
@@ -330,6 +330,6 @@ And finally, if you appreciate this list and find it useful, please consider hel
 
 ## License
 
-[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Tony Phipps](https://twitter.com/neutraltone) has waived all copyright and related or neighboring rights to this work.
