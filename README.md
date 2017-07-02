@@ -56,11 +56,11 @@ All the resources below have specifically specified that their content is [:copy
 * [Gratisography](http://www.gratisography.com/) - Free high-resolution pictures you can use on your personal and commercial projects. New pictures added weekly.
 * [Jay Mantri](http://jaymantri.com/) - Free pics. Do anything. Make magic.
 * [Jéshoots](http://jeshoots.com/) - Photos for business or personal use in high resolution for free.
-* [LibreShot] (http://libreshot.com/) - A collection of hundreds of high quality free stock images for personal or commercial use.
+* [LibreShot] (https://libreshot.com/) - A collection of hundreds of high quality free stock images for personal or commercial use.
 * [Life of Pix](http://www.lifeofpix.com/) - Free high-resolution photos, no copyright restrictions. Photographs added weekly.
 * [Little Visuals](http://littlevisuals.co/) - Hi-res images zipped up in your inbox. Use them anyway you want.
 * [Lock & Stock Photos](http://lockandstockphotos.com/) - Free stock photos for you.
-* [Magdeleine](http://magdeleine.co/browse/) - A selection of free photos curated by [Magdeleine](https://twitter.com/MagdeleinePhoto).
+* [Magdeleine](https://magdeleine.co/browse/) - A selection of free photos curated by [Magdeleine](https://twitter.com/MagdeleinePhoto).
 * [Minimography](http://minimography.com/) - Royalty-Free Minimalist Photos.
 * [MMT](http://mmtstock.com/) - New photos by [Jeffrey Betts](http://jeffreybetts.me/) added every week.
 * [Moveast](http://moveast.me/) - This is a journey of a Portuguese guy moving.
@@ -68,14 +68,14 @@ All the resources below have specifically specified that their content is [:copy
 * [Pexels](https://www.pexels.com/) - 20 new high-quality photos daily.
 * [Photo Collections](https://photocollections.io/) - Free stock photography of architecture, nature and people.
 * [Photo Crops](https://www.photocrops.com/) - Five high resolution photos added every week, sometimes more.
-* [Pickle Jar](http://picklejar.in/) - High-resolution images of everyday india. One new image every day.
+* [Pickle Jar](http://www.picklejar.in/) - High-resolution images of everyday india. One new image every day.
 * [Pickupimage](http://pickupimage.com/) - Free download high quality premium free stock images, public domain photos.
 * [Pixabay](https://pixabay.com) - Stock photos, illustrations, vectors and videos.
 * [Realgraphy](https://realgraphy.org/) - Authentic Non-Stock Photos for Free. Forever.
 * [Realistic Shots](http://realisticshots.com/) - 7 new photos added every week.
 * [Skitter Photo](https://skitterphoto.com/) - Public domain pictures and stock photos for commercial use.
 * [Skuawk](http://skuawk.com/) - Skuawk public domain photos, free, beautiful and artistically loud.
-* [Snappy Goat](http://snappygoat.com/) - Over 12 million public domain & CC0 licensed images.
+* [Snappy Goat](https://snappygoat.com/) - Over 12 million public domain & CC0 licensed images.
 * [Snapwire Snaps](http://snapwiresnaps.tumblr.com/) - Commissioned photos from 170,000 of the world's most talented photographers.
 * [SpaceX Photos](https://www.flickr.com/photos/spacex/) - Promotional SpaceX stock photography.
 * [Splashbase](http://www.splashbase.co/) - Search & discover free, hi res photos & videos.
@@ -129,7 +129,7 @@ The photographs on the following resources require Attribution unless otherwise 
 
 * [Albumarium](http://albumarium.com/) - [:copyright:](http://albumarium.com/terms) The "best" place to find & share beautiful images.
 * [BucketListly](http://photos.bucketlistly.com/) - A free creative common collection of travel photos anyone can use.
-* [IM Creator](http://www.imcreator.com/free) - Also includes Website templates and icons. Some ([CC0-licensed](https://creativecommons.org/publicdomain/zero/1.0/)) works, check the license before use.
+* [IM Creator](http://imcreator.com/free) - Also includes Website templates and icons. Some ([CC0-licensed](https://creativecommons.org/publicdomain/zero/1.0/)) works, check the license before use.
 * [NASA Jet Propulsion Laboratory](https://www.jpl.nasa.gov/spaceimages/) - [:copyright:](https://www.jpl.nasa.gov/imagepolicy/) Graphics and photos of space and spaceflight.
 * [PhotoEverywhere](http://photoeverywhere.co.uk/) - [:copyright:](https://creativecommons.org/licenses/by/2.5/) Globe-trot our collection of high resolution Travel Stock Images More than 3600 photos that are Free to use and ready for instant download.
 * [Raumrot](http://raumrot.com/) - ([:copyright:](https://creativecommons.org/licenses/by/2.0/)) Handpicked stock photos for your commercial and personal works.
@@ -189,7 +189,7 @@ A mixture of CSS and image based pattern resources.
 
 * [CSS3 Patterns Gallery](http://lea.verou.me/css3patterns/) - CSS3 based repeatable patterns.
 * [Low Poly Images](https://reviewsquirrel.com/best-low-poly-generators/) - Collection of low poly image generators.
-* [Subtle Patterns](http://subtlepatterns.com/) - Image based background textures and patterns.
+* [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) - Image based background textures and patterns.
 * [The Pattern Library](http://thepatternlibrary.com/) - A collection of bold, bright and funky repeatable patterns.
 * [UI Gradients](https://uigradients.com/) - Nice, subtle linear gradients to use in your designs.
 
@@ -240,7 +240,7 @@ A collection for SVG icon resources which can be used in your interface and webs
 
 * [Entypo](http://www.entypo.com/) - [:copyright:](http://creativecommons.org/licenses/by-sa/3.0/) Carefully crafted iconset by [Daniel Bruce](http://www.danielbruce.se/).
 * [Geomicons Icons](http://geomicons.com/) - [:copyright:](http://choosealicense.com/licenses/mit/) Most basic icon set.
-* [Iconmonstr](http://iconmonstr.com) - [:copyright:](http://iconmonstr.com/license/) A huge selection of icons in SVG and PNG format.
+* [Iconmonstr](https://iconmonstr.com/) - [:copyright:](https://iconmonstr.com/license/) A huge selection of icons in SVG and PNG format.
 * [Maps Icon](https://github.com/djaiss/mapsicon) - [:copyright:](https://github.com/djaiss/mapsicon#license) Mapsicon is a free collection of maps for nearly every country in the world, available in 11 different sizes, ranging from 16x16 pixels to 1024x1024 pixels, as well as .svg format.
 * [Material Design Icons](https://www.materialui.co/icons) - A collections of free, material design style icons.
 * [Simple Icons](https://github.com/danleech/simple-icons) - [:copyright:](http://artlibre.org/licence/lal/en/) SVG icons for popular brands.
