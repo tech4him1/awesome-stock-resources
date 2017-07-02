@@ -49,6 +49,7 @@ All the resources below have specifically specified that their content is [:copy
 * [Epicantus](http://epicantus.tumblr.com/) - Hi-resolution photos added every week.
 * [Fancy Crave](http://fancycrave.com/) - Two new images added every day.
 * [FindA.Photo](http://finda.photo/) - search through thousands of CC0 photos by keyword and color.
+* [Foodies Feed](https://foodiesfeed.com/) - Free food based images.
 * [Free Nature Stock](http://freenaturestock.com/) - Royalty-free, use them however you want, Nature Stock Photos.
 * [Free-Images.cc](http://www.free-images.cc/) - Create something awesome with free CC0 images.
 * [Freely Photos](http://freelyphotos.com/) - Totally free high quality Christian stock photography. 
@@ -96,11 +97,10 @@ These following photography resources are those who have declared their own usag
 * [Compfight.com](http://compfight.com/) - [:copyright:](https://www.flickr.com/creativecommons/) An image search engine tailored to efficiently locate images for blogs, comps, inspiration, and research.
 * [Death to the Stock Photo](http://join.deathtothestockphoto.com/) - [:copyright:](http://www.mediafire.com/download/2ifplcw682487nz/) Free monthly photos for all your creative needs.
 * [Designer Pics](http://www.designerspics.com) - [:copyright:](http://www.designerspics.com/faq-and-terms/) Free photographs for personal and commercial by [Jeshu John](https://twitter.com/jeshujohn).
-* [Foodies Feed](https://foodiesfeed.com/) - Free food based images. [:copyright:](https://foodiesfeed.com/faq/).
 * [Freerange](https://freerangestock.com/) - [:copyright:](https://freerangestock.com/licensing.php) Quality stock photos for commercial and non-commercial use. For free.
 * [Good Stock Photos](https://goodstock.photos/) - [:copyright:](https://goodstock.photos/about/) One free to use photo added everyday.
 * [ISO Republic](http://isorepublic.com/) - [:copyright:](http://isorepublic.com/terms/) ISO Republic provides exclusive free stock photos for creatives.
-* [Kaboom Pics](http://kaboompics.com/) - [:copyright:](http://kaboompics.com/terms) Great place to get breathtaking Free Pictures for business or personal projects.
+* [Kaboom Pics](http://kaboompics.com/) - [:copyright:](http://kaboompics.com/page/license-and-faq) Great place to get breathtaking Free Pictures for business or personal projects.
 * [morgueFile](https://morguefile.com/) - [:copyright:](https://morguefile.com/terms) Free photo archive by creatives, for creatives.
 * [Photober](http://www.photober.com/) - [:copyright:](http://www.photober.com/terms/) Free of charge photo downloading site for personal or commercial use.
 * [PhotoStockEditor](http://photostockeditor.com) - [:copyright:](http://photostockeditor.com/#small-dialog) High-resolution weekly images for Personal & Commercial use.
@@ -188,7 +188,7 @@ completely free.
 A mixture of CSS and image based pattern resources.
 
 * [CSS3 Patterns Gallery](http://lea.verou.me/css3patterns/) - CSS3 based repeatable patterns.
-* [Low Poly Images](https://reviewsquirrel.com/best-low-poly-generators/) - Collection of low poly image generators.
+* [Low Poly Images](https://digital.com/blog/best-low-poly-generators/) - Collection of low poly image generators.
 * [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) - Image based background textures and patterns.
 * [The Pattern Library](http://thepatternlibrary.com/) - A collection of bold, bright and funky repeatable patterns.
 * [UI Gradients](https://uigradients.com/) - Nice, subtle linear gradients to use in your designs.
@@ -260,7 +260,7 @@ A selection of websites offering color schemes.
 * [Colour Lovers](http://www.colourlovers.com) - A creative community where people from around the world create and share colors, palettes and patterns.
 * [Coolors](https://coolors.co/) - The super fast color schemes generator for cool designers.
 * [Flat UI Colors](https://flatuicolors.com/) - Flat color picker which gives you the perfect colors for flat designs.
-* [LOLColors](http://www.lolcolors.com/) - A nice curated color palette inspiration resource.
+* [LOLColors](https://www.webdesignrankings.com/resources/lolcolors/) - A nice curated color palette inspiration resource.
 * [Material Design Colors](https://www.materialui.co/colors) - Material ui color palette for Android, Web & iOS.
 * [Material Palette](https://www.materialpalette.com/) - Generate & export your Material Design color palette.
 
@@ -278,7 +278,7 @@ A liberal mixture of content aggregated from other free resources and made avail
 
 Various different websites offering free HTML templates and themes.
 
-* [Bootswatch](http://bootswatch.com/) - [:copyright:](https://github.com/thomaspark/bootswatch/blob/gh-pages/LICENSE) Free themes for Bootstrap.
+* [Bootswatch](https://bootswatch.com/) - [:copyright:](https://github.com/thomaspark/bootswatch/blob/gh-pages/LICENSE) Free themes for Bootstrap.
 * [HTML5 Up](https://html5up.net/) - [:copyright:](http://creativecommons.org/licenses/by/3.0/) HTML5 UP makes spiffy HTML5 site templates.
 * [Templated](https://templated.co/) - [:copyright:](https://templated.co/license) A collection of 850 free CSS and HTML5 site templates, designed & built by Cherry + AJ and released under the Creative Commons.
 * [Themezy](https://www.themezy.com/) - [:copyright:](https://www.themezy.com/terms) Free WordPress themes and website templates.
@@ -291,7 +291,7 @@ Free resources for stock sound and music to be used on creative projects
 * [ccMixter] (http://ccmixter.org/) - [:copyright:] (http://ccmixter.org/how-to-attribute-ccmixter-tracks) ccMixter.org offers over 30,000 original tracks that can be used freely in YouTube videos, remixes, mobile apps, games, and more.
 * [Free Loops](http://free-loops.com) - [:copyright:](http://free-loops.com/creative-commons-audio.php) Free loops and audio clip.
 * [Free Music Archive](http://freemusicarchive.org/) - [:copyright:](http://creativecommons.org/) An interactive library of high-quality, legal audio downloads directed by [WFMU](https://wfmu.org/), the most renowned freeform radio station in America.
-* [Freesound](http://www.freesound.org) - [:copyright:](http://www.freesound.org/help/about/) Collaborative database of audio snippets, samples, recordings and bleeps.
+* [Freesound](http://freesound.org) - [:copyright:](http://freesound.org/help/about/) Collaborative database of audio snippets, samples, recordings and bleeps.
 * [Internet Archive’s Netlabels Collection](https://archive.org/details/netlabels) - [:copyright:](http://creativecommons.org/) Netlabels collection hosts complete, freely downloadable/streamable.
 * [Jamendo](https://www.jamendo.com/start) - [:copyright:](http://creativecommons.org/) Independent music community with a large collect of creative commons licensed music.
 * [Jukedeck](https://www.jukedeck.com) - [:copyright:](https://www.jukedeck.com/licensing) Machine learning powered royalty-free original music.
